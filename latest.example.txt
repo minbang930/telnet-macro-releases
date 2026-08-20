@@ -1,4 +1,4 @@
 # Copy this file to latest.txt only after the matching GitHub Release asset is uploaded.
-version=26.08.21
-url=https://github.com/minbang930/telnet-macro-releases/releases/download/v26.08.21/TelnetMacro.exe
+version=26.08.21.1
+url=https://github.com/minbang930/telnet-macro-releases/releases/download/v26.08.21.1/TelnetMacro.exe
 sha256=REPLACE_WITH_64_HEX_SHA256
