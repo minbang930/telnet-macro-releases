@@ -1,3 +1,3 @@
-version=26.08.21
-url=https://github.com/minbang930/telnet-macro-releases/releases/download/v26.08.21/TelnetMacro.exe
-sha256=a0533afb318c9fac59468ddf08ce8c3bf8592e3d5ec5259e37c2c14d73ef78ad
+version=26.08.21.1
+url=https://github.com/minbang930/telnet-macro-releases/releases/download/v26.08.21.1/TelnetMacro.exe
+sha256=285d12e7b02221956e46142b57c10c89104d8b0b55ea9d5e58992cc338c214ea
